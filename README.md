@@ -126,3 +126,7 @@ Run the audit.sh file
 ```*
 ./audit.sh
 ```
+
+## Authors
+
+Samuel Uzoagba and Anton Urban
